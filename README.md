@@ -17,6 +17,11 @@ Team: CMPUT404W20T07 [H03]
 * Yipu Chen    -    [yipu1](https://github.com/YipuChen)
 * Tianxin Ma      -    [tianxin3](https://github.com/tianxin3)
 
+Demo video:
+===================================
+
+https://youtu.be/6GfBvxk2Zfs
+
 
 Description:
 ===================================
